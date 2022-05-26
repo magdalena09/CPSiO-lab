@@ -1,2 +1,2 @@
 # CPSiO-lab
-CPSiO Laboratorium
+CPSiO Laboratorium - przetwarzanie sygnałów i obrazów
